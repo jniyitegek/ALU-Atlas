@@ -1,4 +1,4 @@
-# ALU Atlas 🌍
+# ALU Atlas 
 
 ALU Atlas is a mobile campus directory and opportunities marketplace built with Flutter. It connects ALU student candidates directly with incubated campus ventures, facilitating real-world milestones and internship placements.
 
