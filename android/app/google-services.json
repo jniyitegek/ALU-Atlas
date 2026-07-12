@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "415053225331",
+    "project_id": "alu-atlas",
+    "storage_bucket": "alu-atlas.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:415053225331:android:4a938dd085f853b060f906",
+        "android_client_info": {
+          "package_name": "com.alu.alu_atlas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIlehTPy3_vrmeL0AnPQZRLloyZ9pgQHM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
